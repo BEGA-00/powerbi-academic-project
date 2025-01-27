@@ -17,6 +17,7 @@
 https://drive.google.com/file/d/120mFudpJ0WNEZVLJyMdCiceRMUoZPOc9/view?usp=sharing
 
 
+
 **Отчет на основе данных про продажи товаров**
 Примерный отчет для руководства:
 - общая сумма продаж (sales)
@@ -34,8 +35,9 @@ https://drive.google.com/file/d/120mFudpJ0WNEZVLJyMdCiceRMUoZPOc9/view?usp=shari
 - диаграммы продаж, прибыли, количество проданных товаров, profit ratio по Регионам
 - нормированная диаграмма, распределение статусов доставки (Ship Status) по Областям по количеству проданных товаров
 
+
 **Также есть не вместившийся файл:**
-**Мини проект**
+**МИНИ ПРОЕКТ**
 Набор данных, относящийся к мероприятиям по совместному использованию велосипедов в районе залива Сан-Франциско. Это общедоступный набор данных Google Big Query:
 https://console.cloud.google.com/marketplace/details/san-francisco-public-data/sf-bike-share
 
